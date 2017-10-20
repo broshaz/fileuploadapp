@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Instrumentation Agent tampering via File Upload</h2>
+<h2>File Upload App</h2>
 
     <h1>File Upload Form</h1> 
     <fieldset>
