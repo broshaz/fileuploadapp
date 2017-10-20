@@ -6,6 +6,16 @@ It can be used to demonstrate the effects of an application vulnerability (such 
 
 mvn clean package
 
-# Access from:
+# Set up
+
+1) Download Contrast-rO0 agent
+2) Run Tomcat (or any other app server) with the agent and a sample agent configuration file
+
+
+# Access
 
 http://localhost:8080/SampleFileUploadApp/
+
+# Exploit
+
+Upload each payload and access them from the browser.
