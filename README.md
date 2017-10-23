@@ -1,7 +1,7 @@
 Sample JSP web application vulnerable to file upload. Useful for PoCs.
 
 It can be used to demonstrate the effects of an application vulnerability (such as file upload) to the deployed Instrumentation Agent.
-Note that the same effects can also be achieved with other types of vulnerabilities such as type confusion, XML, JSON and Java deserialization, etc.
+Note that the same effects can also be achieved with other types of vulnerabilities such as type confusion, OGNL Injection, XML, JSON and Java deserialization, etc.
 
 # Build
 
